@@ -1,16 +1,13 @@
-## Hi there 👋
+BEM VINDO AO PERFIL DO MINI PEKKA💖
 
-<!--
-**MINIpekka2423/MINIpekka2423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOU MINI
 
-Here are some ideas to get you started:
+ESTOU ESTUDANDO NO VIEIRA 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+QUERO SER JOGADOR DE FUTSAL⚽
+
+TENHO 16 ANOS
+
+MORO EM SP/ZS
+
+MEU ISTA: 01_mc_mp
