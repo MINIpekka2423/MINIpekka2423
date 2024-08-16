@@ -3,10 +3,18 @@ body{
 color:aqua;
 background:black;
 
+margin: 0px
+
 }
 
 header {
      
-border: solid 2px blue;
+border-bottom: solid 2px blue;
+
+padding: 20px;
+
+font-size: 32px;
+
+color: purple;
 
 }
