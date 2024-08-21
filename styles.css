@@ -15,6 +15,25 @@ padding: 20px;
 
 font-size: 32px;
 
-color: red;
+color: rgb(255, 255, 255);
 
 }
+
+section{
+background-color: blue;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+
+}
+
+.chamada-texto{
+margin-right: 5%;
+
+
+}
+
+
+
