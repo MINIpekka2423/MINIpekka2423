@@ -2,7 +2,7 @@ body{
 
 color: white;
 background:black;
-
+font-family: "DM Serif Text", serif;
 margin: 0px
 
 }
@@ -31,9 +31,8 @@ justify-content: center;
 
 .chamada-texto{
 margin-right: 5%;
-
-
 }
+
 
 
 
